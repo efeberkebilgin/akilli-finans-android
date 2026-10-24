@@ -1,0 +1,12 @@
+[35mapp/src/main/AndroidManifest.xml[m[36m:[m[32m2[m[36m:[m<manifest xmlns:android="[1;31mhttp://[mschemas.android.com/apk/res/android">
+[35mapp/src/main/java/com/akillifinans/app/data/network/RetrofitClient.kt[m[36m:[m[32m12[m[36m:[m * [1;31mBASE_URL[m: Android Emülatör'den host (fiziksel) makineye erişmek için
+[35mapp/src/main/java/com/akillifinans/app/data/network/RetrofitClient.kt[m[36m:[m[32m13[m[36m:[m * [1;31m10.0.2.2[m özel IP adresi kullanılır. Bu adres emülatör içinde
+[35mapp/src/main/java/com/akillifinans/app/data/network/RetrofitClient.kt[m[36m:[m[32m14[m[36m:[m * host bilgisayarın [1;31mlocalhost[m'una karşılık gelir.
+[35mapp/src/main/java/com/akillifinans/app/data/network/RetrofitClient.kt[m[36m:[m[32m21[m[36m:[m    private const val [1;31mBASE_URL[m = "[1;31mhttp://[m[1;31m10.0.2.2[m:8000/"
+[35mapp/src/main/java/com/akillifinans/app/data/network/RetrofitClient.kt[m[36m:[m[32m36[m[36m:[m        .[1;31mbaseUrl[m([1;31mBASE_URL[m)
+[35mapp/src/main/java/com/akillifinans/app/data/network/StockApiService.kt[m[36m:[m[32m10[m[36m:[m * Base URL: [1;31mhttp://[m[1;31m10.0.2.2[m:8000/ (emülatörden host makine erişimi)
+[35mgradlew[m[36m:[m[32m10[m[36m:[m#      [1;31mhttps://[mwww.apache.org/licenses/LICENSE-2.0
+[35mgradlew[m[36m:[m[32m60[m[36m:[m#       [1;31mhttps://[mgithub.com/gradle/gradle/blob/HEAD/platforms/jvm/plugins-application/src/main/resources/org/gradle/api/internal/plugins/unixStartScript.txt
+[35mgradlew[m[36m:[m[32m63[m[36m:[m#       You can find Gradle at [1;31mhttps://[mgithub.com/gradle/gradle/.
+[35mgradlew[m[36m:[m[32m88[m[36m:[m# Discard cd standard output in case $CDPATH is set ([1;31mhttps://[mgithub.com/gradle/gradle/issues/25036)
+[35mgradlew.bat[m[36m:[m[32m8[m[36m:[m@rem      [1;31mhttps://[mwww.apache.org/licenses/LICENSE-2.0
